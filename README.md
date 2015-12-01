@@ -1,1 +1,1 @@
-# chef_recipes
+# Chef Cookbooks for AWS OpsWorks
